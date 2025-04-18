@@ -1,0 +1,2 @@
+Username: user1, Email: user1@example.com, Password: pass1234, Strength: strong, API Key: APIKEY1234
+Username: user2, Email: user2@example.com, Password: pass5678, Strength: medium, API Key: APIKEY5678
