@@ -1,4 +1,4 @@
-# Honeytoken Generation and Monitoring System using LLM
+# Honeytoken Generation and Monitoring System using SLM
 
 ## Overview
 
